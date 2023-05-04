@@ -1,5 +1,5 @@
 ;Doğa Kayra Yılmazarslan
-;.\makefile.bat Lab_8_Q2
+
 %include "asm_io.inc"
 
 segment .bss
